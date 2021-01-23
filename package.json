@@ -1,6 +1,6 @@
 {
   "name": "@domain.js/counter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "domain.js counter 计数器模块",
   "main": "index.js",
   "scripts": {
